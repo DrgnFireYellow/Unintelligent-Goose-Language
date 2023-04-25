@@ -8,7 +8,7 @@ Unintelligent-Goose-Language
 *.dll
 
 # Ignore binary output folders
-bin/
+#bin/
 
 # Ignore common editor/system specific metadata
 .DS_Store
